@@ -34,7 +34,7 @@ SO THAT my company can compete with other e-commerce companies
 ## Mock-Up
 Because this application won’t be deployed a walkthrough video is provided.
 
-![walkthrough video.](./Assets/)
+![walkthrough video.](https://drive.google.com/file/d/1s_q9YbJKFJlDcqC_6Xj9bRX8SMPgyRDI/view)
 
 The following link shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia Core:
 
